@@ -27,7 +27,7 @@ There are many ways we can start the data analysis process using the tables we h
 <img width="970" height="1207" alt="image" src="https://github.com/user-attachments/assets/250c98ff-dfc5-4332-b633-6e613fc7c4f5" />
 
 <ul>
-  <li> We see that in our small sample size Cooper Flagg, who was taken 1st overall by the Dallas Mavericks have this strencth where his efficiency goes up when he scores more points. </li> 
+  <li> We see that in our small sample size Cooper Flagg, who was taken 1st overall by the Dallas Mavericks have this stretch where his efficiency goes up when he scores more points. </li> 
 </ul>
 
 <b> Figure 2. Comparing the 10 rookies through their last 5 games using their points vs. their field goal percentage.  </b></br>
